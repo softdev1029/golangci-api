@@ -1,0 +1,6 @@
+/.env
+/.env.*
+/vendor
+/golangci-api
+/*.log
+/logs/
